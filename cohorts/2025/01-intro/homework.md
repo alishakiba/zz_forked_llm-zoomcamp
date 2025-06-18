@@ -102,7 +102,7 @@ A: {text}
 """.strip()
 ```
 
-Now use the context you just created along with the "How do I execute a command in a running docker container?" question 
+Now use the context you just created along with the "How do copy a file to a Docker container?" question 
 to construct a prompt using the template below:
 
 ```
@@ -178,5 +178,5 @@ You can redo the calculations with the values you got in Q6 and Q7.
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw1
+* Submit your results here: https://courses.datatalks.club/llm-zoomcamp-2025/homework/hw1
 * It's possible that your answers won't match exactly. If it's the case, select the closest one.
